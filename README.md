@@ -1,16 +1,8 @@
-# flutter_ocr
+#Flutter OCR Application
+This repository contains a Flutter application that utilizes Google ML Kit for optical character recognition (OCR). The app allows users to select an image from their gallery or capture one using their camera, and then processes the image to extract and display text using OCR technology.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Features
+- Select an image from the gallery or capture a new one with the camera.
+- Process the selected image to recognize and extract text.
+- Display the recognized text on the screen.
+- Option to process text as a list, line by line.
